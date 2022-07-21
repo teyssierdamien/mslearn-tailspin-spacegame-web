@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/damienteyssier/Space%20Game/_apis/build/status/teyssierdamien.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/damienteyssier/Space%20Game/_build/latest?definitionId=3&branchName=main)
 
 # Contributing
 
